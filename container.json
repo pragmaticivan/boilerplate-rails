@@ -1,0 +1,7 @@
+{
+  "id": "rails",
+  "type": "wedeploy/rails",
+  "hooks": {
+    "build": "bundle install"
+  }
+}
